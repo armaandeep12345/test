@@ -540,7 +540,7 @@ if (isset($_POST["file"])) {
                 <li class="na"><i class="bi bi-x"></i> <span>Additional hours not included</span></li>
                 <li class="na"><i class="bi bi-x"></i> <span>No extra amenities included</span></li>
               </ul>
-              <div class="text-center"><a href="book.html" class="buy-btn">Book Now</a></div>
+              <div class="text-center"><a href="book.php" class="buy-btn">Book Now</a></div>
             </div>
           </div><!-- End Pricing Item -->
     
@@ -555,7 +555,7 @@ if (isset($_POST["file"])) {
                 <li><i class="bi bi-check"></i> <span>Custom decorations & VIP service</span></li>
                 <li><i class="bi bi-check"></i> <span>Complimentary refreshments</span></li>
               </ul>
-              <div class="text-center"><a href="book.html" class="buy-btn">Book Now</a></div>
+              <div class="text-center"><a href="book.php" class="buy-btn">Book Now</a></div>
             </div>
           </div><!-- End Pricing Item -->
     
@@ -570,7 +570,7 @@ if (isset($_POST["file"])) {
                 <li><i class="bi bi-check"></i> <span>Custom luxury interiors & decor</span></li>
                 <li><i class="bi bi-check"></i> <span>VIP treatment & special amenities</span></li>
               </ul>
-              <div class="text-center"><a href="book.html" class="buy-btn">Book Now</a></div>
+              <div class="text-center"><a href="book.php" class="buy-btn">Book Now</a></div>
             </div>
           </div><!-- End Pricing Item -->
     
